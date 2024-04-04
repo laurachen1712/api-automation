@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="19" passed="19" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-04T07:55:34 WIB" name="Default suite" finished-at="2024-04-04T07:56:00 WIB" duration-ms="26417">
+    <groups>
+    </groups>
+    <test started-at="2024-04-04T07:55:34 WIB" name="Default test" finished-at="2024-04-04T07:56:00 WIB" duration-ms="26417">
+      <class name="gorestautomation.feb2024.APITestAfterRefactor">
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:34 WIB" name="login" finished-at="2024-04-04T07:55:35 WIB" duration-ms="768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createNewUserAPI()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:35 WIB" name="createNewUserAPI" finished-at="2024-04-04T07:55:42 WIB" duration-ms="7137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUserAPI -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:42 WIB" name="login" finished-at="2024-04-04T07:55:42 WIB" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createNewUserAPI2()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:42 WIB" name="createNewUserAPI2" finished-at="2024-04-04T07:55:43 WIB" duration-ms="588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUserAPI2 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:43 WIB" name="login" finished-at="2024-04-04T07:55:43 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createNewUserAPI3()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:43 WIB" name="createNewUserAPI3" finished-at="2024-04-04T07:55:43 WIB" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUserAPI3 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:43 WIB" name="login" finished-at="2024-04-04T07:55:43 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createNewUserAPI4()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:43 WIB" name="createNewUserAPI4" finished-at="2024-04-04T07:55:43 WIB" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUserAPI4 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:43 WIB" name="login" finished-at="2024-04-04T07:55:43 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createNewUserAPI5()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:43 WIB" name="createNewUserAPI5" finished-at="2024-04-04T07:55:44 WIB" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUserAPI5 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:44 WIB" name="login" finished-at="2024-04-04T07:55:44 WIB" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="createNewUserAPI6()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:44 WIB" name="createNewUserAPI6" finished-at="2024-04-04T07:55:44 WIB" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUserAPI6 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:44 WIB" name="login" finished-at="2024-04-04T07:55:44 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="deleteUserAPI()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:44 WIB" name="deleteUserAPI" finished-at="2024-04-04T07:55:44 WIB" duration-ms="548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserAPI -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:44 WIB" name="login" finished-at="2024-04-04T07:55:44 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="deleteUserAPI2()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:44 WIB" name="deleteUserAPI2" finished-at="2024-04-04T07:55:45 WIB" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserAPI2 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:45 WIB" name="login" finished-at="2024-04-04T07:55:45 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="getUserDetailAPI()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:45 WIB" name="getUserDetailAPI" finished-at="2024-04-04T07:55:51 WIB" duration-ms="6256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetailAPI -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:51 WIB" name="login" finished-at="2024-04-04T07:55:51 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="getUserDetailAPI2()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:51 WIB" name="getUserDetailAPI2" finished-at="2024-04-04T07:55:52 WIB" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetailAPI2 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:52 WIB" name="login" finished-at="2024-04-04T07:55:52 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="getUserDetailAPI3()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:52 WIB" name="getUserDetailAPI3" finished-at="2024-04-04T07:55:52 WIB" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetailAPI3 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:52 WIB" name="login" finished-at="2024-04-04T07:55:52 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="getUserDetailAPI4()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:52 WIB" name="getUserDetailAPI4" finished-at="2024-04-04T07:55:52 WIB" duration-ms="465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetailAPI4 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:52 WIB" name="login" finished-at="2024-04-04T07:55:52 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="updateUserDetailsAPI()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:52 WIB" name="updateUserDetailsAPI" finished-at="2024-04-04T07:55:53 WIB" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserDetailsAPI -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:53 WIB" name="login" finished-at="2024-04-04T07:55:53 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="updateUserDetailsAPI2()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:53 WIB" name="updateUserDetailsAPI2" finished-at="2024-04-04T07:55:53 WIB" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserDetailsAPI2 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:53 WIB" name="login" finished-at="2024-04-04T07:55:53 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="updateUserDetailsAPI3()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:53 WIB" name="updateUserDetailsAPI3" finished-at="2024-04-04T07:55:54 WIB" duration-ms="588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserDetailsAPI3 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:54 WIB" name="login" finished-at="2024-04-04T07:55:54 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="updateUserDetailsAPI4()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:54 WIB" name="updateUserDetailsAPI4" finished-at="2024-04-04T07:55:54 WIB" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserDetailsAPI4 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:54 WIB" name="login" finished-at="2024-04-04T07:55:54 WIB" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="updateUserDetailsAPI5()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:54 WIB" name="updateUserDetailsAPI5" finished-at="2024-04-04T07:55:55 WIB" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserDetailsAPI5 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:55 WIB" name="login" finished-at="2024-04-04T07:55:55 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="updateUserDetailsAPI6()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:55 WIB" name="updateUserDetailsAPI6" finished-at="2024-04-04T07:55:55 WIB" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserDetailsAPI6 -->
+        <test-method is-config="true" signature="login()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:55 WIB" name="login" finished-at="2024-04-04T07:55:55 WIB" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="updateUserDetailsAPI7()[pri:0, instance:gorestautomation.feb2024.APITestAfterRefactor@6239aba6]" started-at="2024-04-04T07:55:55 WIB" name="updateUserDetailsAPI7" finished-at="2024-04-04T07:56:00 WIB" duration-ms="5396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserDetailsAPI7 -->
+      </class> <!-- gorestautomation.feb2024.APITestAfterRefactor -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
